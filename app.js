@@ -1,6 +1,6 @@
-// // let string = 'I am a string';
-// // let sentence = 'Hello Angel ' + 'and Vicky';
-// // console.log(sentence)
+// let string = 'I am a string';
+// let sentence = 'Hello Angel ' + 'and Vicky';
+// console.log(sentence)
 
 // let student = 'Sandra';
 // let student2 = 'Gia';
@@ -42,33 +42,33 @@
 //     console.log('You are over 18');
 // }
 
-// // green, red, yellow
+// green, red, yellow
 
-// let color = 'green';
-// if (color === 'green') {
-//     console.log('Go')
-// } else if (color === 'red') {
-//     console.log('Stop')
-// } else if (color === 'yellow') {
-//     console.log('Caution')
-// } else {
-//     console.log('wtf')
-// }
+let color = 'green';
+if (color === 'green') {
+    console.log('Go')
+} else if (color === 'red') {
+    console.log('Stop')
+} else if (color === 'yellow') {
+    console.log('Caution')
+} else {
+    console.log('wtf')
+}
 
-// // coffee
+// coffee
 
-// let kristyIntolerant = false;
-// let baoBaoIntolerant = false;
+let kristyIntolerant = false;
+let baoBaoIntolerant = false;
 
-// if (kristyIntolerant === baoBaoIntolerant) {
-//     if (kristyIntolerant === true) {
-//         console.log('Get almond milk');
-//     } else {
-//         console.log('Get regular milk');
-//     }
-// } else {
-//     console.log('Get regular and almond milk');
-// }
+if (kristyIntolerant === baoBaoIntolerant) {
+    if (kristyIntolerant === true) {
+        console.log('Get almond milk');
+    } else {
+        console.log('Get regular milk');
+    }
+} else {
+    console.log('Get regular and almond milk');
+}
 
 // cupcake
 
