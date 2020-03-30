@@ -1,46 +1,46 @@
-// let string = 'I am a string';
-// let sentence = 'Hello Angel ' + 'and Vicky';
-// console.log(sentence)
+// // let string = 'I am a string';
+// // let sentence = 'Hello Angel ' + 'and Vicky';
+// // console.log(sentence)
 
-// let student = 'Sandra';
-// let student2 = 'Gia';
-// let courseName = 'AP CSP';
-// let teacherName = 'Whalen';
-// let sentence = student + ' and ' + student2 + ' are taking ' + courseName + ' with ' + teacherName
+// // let student = 'Sandra';
+// // let student2 = 'Gia';
+// // let courseName = 'AP CSP';
+// // let teacherName = 'Whalen';
+// // let sentence = student + ' and ' + student2 + ' are taking ' + courseName + ' with ' + teacherName
 
-// let betterSentence = `${student} and ${student2} are taking ${courseName} with ${teacherName} next year`
+// // let betterSentence = `${student} and ${student2} are taking ${courseName} with ${teacherName} next year`
 
-// // NUMS AND INTS
+// // // NUMS AND INTS
 
-// let year = 2020;
-// let nextYear = year + 1;
-// let past = year / 2
-// let future = year * 2
+// // let year = 2020;
+// // let nextYear = year + 1;
+// // let past = year / 2
+// // let future = year * 2
 
-// // Booleans
+// // // Booleans
 
-// let trueStatement = false;
+// // let trueStatement = false;
 
-// // Null and Undefined
+// // // Null and Undefined
 
-// let richard;
+// // let richard;
 
 
-// // if <-> else
+// // // if <-> else
 
-// let age = 17;
-// let baosquared = 'Bao Bao';
-// console.log(baosquared === 'Bao Bao');
-// console.log(age == '17');
+// // let age = 17;
+// // let baosquared = 'Bao Bao';
+// // console.log(baosquared === 'Bao Bao');
+// // console.log(age == '17');
 
-// let age = 17;
-// if (age < 18) {
-//     console.log('You are a Child.');
-// } else if (age === 18) {
-//     console.log('Happy Birthday');
-// } else {
-//     console.log('You are over 18');
-// }
+// // let age = 17;
+// // if (age < 18) {
+// //     console.log('You are a Child.');
+// // } else if (age === 18) {
+// //     console.log('Happy Birthday');
+// // } else {
+// //     console.log('You are over 18');
+// // }
 
 // green, red, yellow
 
@@ -83,3 +83,4 @@ if (temp < 68) {
 } else {
     console.log('too hot')
 }
+
